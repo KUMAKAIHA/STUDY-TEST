@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="FUCK WORLD.cpp">
+    <ClCompile Include="My frist C++.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
